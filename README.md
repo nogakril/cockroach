@@ -1,7 +1,5 @@
 # Cockroach 🪳
 
-**Live Video Installation · Processing + ChatGPT · 2023**
-
 This project was created as part of a course exploring **AI-driven interactive installations**.  
 Using a **live camera feed** that detected the positions of visitors’ feet on the floor (x,y coordinates), we coded a **Processing sketch** that simulated the behavior of cockroaches: scattering, running, and escaping in response to movement.
 
